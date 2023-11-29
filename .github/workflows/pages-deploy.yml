@@ -1,4 +1,4 @@
-name: 'Automatic deploy'
+name: '삭제?Automatic deploy'
 on:
   push:
     branches:
