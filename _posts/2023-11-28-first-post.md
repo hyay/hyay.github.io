@@ -1,7 +1,7 @@
 ---
 title: 첫 포스팅
 author: haley
-date: 2023-11-01 00:34:00 +0800
+date: 2023-11-28 15:00:00 +0800
 categories: [Blogging, Tutorial]
 tags: [blah]
 ---
@@ -23,10 +23,10 @@ fork, clone 그 무엇을 해도 <kbd>gh-pages</kbd> branch는 자동 생성 안
 [**블로그3**](https://ree31206.tistory.com/entry/github-pages-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%ED%85%8C%EB%A7%88-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0Chirpy) 여기서 해답을 찾아서 드디어 deploy할 수 있었다(감격ㅠㅠ)  
 이대로 따라하면 <kbd>jekyll.yml</kbd>이 생성되는데, 이게 결국 deploy를 자동으로 해주는 yml이였기에, 기존에 존재하던 <kbd>pages-deploy.yml</kbd> 은 삭제하면 된다.
 
-![img1](/assets/img/posts/2023-11-01-first-post-img1.png)
+![img1](/assets/img/2023-11-28/img1.png)
 <!-- {: w="700" h="400" } -->
 
 ## 향후 계획
 얼마나 열심히할지 모르겠지만, 기왕 블로그 하기로 마음먹은 것 공부했던 내용들이라도 차근차근 올려보려고 한다.  
-일단 올해까지 기존에 정리해둔 내용들을 업로드하고, <kbd>obsidian</kbd>과 연동해서 생산성을 올리는데 집중하려고 한다.
+일단 올해까지 기존에 정리해둔 내용들을 업로드하고, <kbd>obsidian</kbd>과 연동해서 생산성을 올리는데 집중하려고 한다.  
 목표했던 ADP를 드디어 땄기 때문에 이제 한결 가벼운 마음으로 자기계발에 집중해야겠다!
