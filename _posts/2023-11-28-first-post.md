@@ -25,9 +25,9 @@ fork, clone 그 무엇을 해도 <kbd>gh-pages</kbd> branch는 자동 생성 안
 
 
 ## 이미지 삽입 테스트
-git issue에 이미지를 복사하고 붙여넣고 기다리면 자동으로 URL생성됨! 그대로 주소만 활용하면 된다.  
-![image](https://github.com/hyay/hyay.github.io/assets/28091783/ce2ffd6f-45c1-4928-aed3-76b142a3c799)
-
+Git의 <kbd>Issues</kbd>에서 이미지를 복사하고 붙여넣고 기다리면 자동으로 URL생성됨! 그대로 주소만 활용하면 된다.  
+![image](https://github.com/hyay/hyay.github.io/assets/28091783/ce2ffd6f-45c1-4928-aed3-76b142a3c799)  
+그런데 왜인지 모르겠는데 자꾸 이미지에 특수효과(?)가 생긴다.. 나중에 해결해 보자ㅠ
 
 ## 향후 계획
 얼마나 열심히할지 모르겠지만, 기왕 블로그 하기로 마음먹은 것 공부했던 내용들이라도 차근차근 올려보려고 한다.  
