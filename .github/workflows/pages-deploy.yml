@@ -1,9 +1,9 @@
-name: "Build and Deploy"
+name: 'Automatic deploy'
 on:
   push:
     branches:
       - main
-      - master
+      # - master
     paths-ignore:
       - .gitignore
       - README.md
